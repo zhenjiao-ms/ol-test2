@@ -1,3 +1,0 @@
-## OpenLocalization Workflow Test MarkDown
-* 7b090670-2061-41b3-be18-3bf28a5954b1 
-thanks!
